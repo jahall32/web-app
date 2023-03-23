@@ -1,0 +1,52 @@
+
+
+
+
+li {
+  display: flex;
+  flex-direction:column-reverse;
+  align-items: center;
+  margin-bottom: 10px;
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+img {
+  width: 200px; /* adjust size as needed */
+  padding: 10px;
+  
+}
+
+p {
+  flex-grow: 1;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.post{
+  background-color: brown;
+}
+
+button{
+  background-color: rgb(190, 190, 246);
+  padding: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+.er{
+  display: flex;
+  flex-direction: row;
+}
+
+.err{
+ background-color: blue;
+}
+
+h3{
+  color: black;
+}
