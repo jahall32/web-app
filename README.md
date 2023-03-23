@@ -11,3 +11,6 @@ Suggested data structure
 - I'll need a database to store user data, and the pre-existing meme templates.
 
 - something to store images and videos. there are multiple ways to do this, so im unsure at the moment what one is best. They would be stored on a local     directory, database or a cloud service. (depends on scaleability)
+
+
+or comedy skits
